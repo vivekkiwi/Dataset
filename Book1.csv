@@ -1,0 +1,261 @@
+Parent,Channel,Coupon Type, Issuances ,ROI
+Sears,Shopping Recap,Points,12284,0.055263158
+Sears,Shopping Recap,PMD,11697,0.515907773
+Sears,Shopping Recap,Liquidity,3,0
+Sears,Sears Website,Points,177537,0
+Sears,Sears Website,PMD,183256,0
+Sears,Sears Shopin,Points,44124,0.0665
+Sears,Sears Shopin,PMD,283992,0.04
+Sears,Sears Order Confirmation,Points,141514,0.012
+Sears,Sears Order Confirmation,PMD,597100,0.01
+Sears,Sears Order Confirmation,Liquidity,19583,0.22690027
+Sears,Sears Mobile,Points,234768,0.129
+Sears,Sears Mobile,PMD,261783,0.13
+Sears,Sears Mobile,Liquidity,1,0
+Sears,Sears Deal Center,Points,1082090,0.089090909
+Sears,Sears Deal Center,PMD,1182220,0.038181818
+Sears,NPOS,Points,2046056,0.154411765
+Sears,NPOS,PMD,7645389,0.196226415
+Sears,NPOS,Liquidity,1047978,0.614574468
+Kmart,KPOS,Points,7186946,0.496612022
+Kmart,KPOS,PMD,11710296,0.1548
+Kmart,KPOS,Liquidity,371204,0.154
+Kmart,Kmart Shopin,Points,10135,0.307352941
+Kmart,Kmart Shopin,PMD,21218,0.083333333
+Kmart,Kmart Order Confirmation,Points,51803,0
+Kmart,Kmart Order Confirmation,PMD,319549,0
+Kmart,Kmart Order Confirmation,Liquidity,5936,0
+Kmart,Kmart Mobile,Points,164816,0
+Kmart,Kmart Mobile,PMD,327651,0
+Kmart,Kmart Deal Center,Points,652327,0
+Kmart,Kmart Deal Center,PMD,1446439,0
+Sears,Shopping Recap,Points,3013,0
+Sears,Shopping Recap,PMD,3672,0
+Sears,Sears Website,Points,140487,0
+Sears,Sears Website,PMD,147936,0
+Sears,Sears Shopin,Points,43832,0
+Sears,Sears Shopin,PMD,29727,0
+Sears,Sears Order Confirmation,Points,141519,0
+Sears,Sears Order Confirmation,PMD,724326,0
+Sears,Sears Order Confirmation,Liquidity,17270,0
+Sears,Sears Mobile,Points,209069,0
+Sears,Sears Mobile,PMD,290229,0
+Sears,Sears Mobile,Liquidity,1,0
+Sears,Sears Deal Center,Points,828396,0
+Sears,Sears Deal Center,PMD,936966,0
+Sears,NPOS,Points,2284279,0
+Sears,NPOS,PMD,8716928,0
+Sears,NPOS,Liquidity,1178527,0
+Kmart,KPOS,Points,6324449,0
+Kmart,KPOS,PMD,11449505,0
+Kmart,KPOS,Liquidity,640865,0
+Kmart,Kmart Shopin,Points,8415,0
+Kmart,Kmart Shopin,PMD,17367,0
+Kmart,Kmart Order Confirmation,Points,61691,0
+Kmart,Kmart Order Confirmation,PMD,366758,0
+Kmart,Kmart Order Confirmation,Liquidity,14954,0
+Kmart,Kmart Mobile,Points,139092,0
+Kmart,Kmart Mobile,PMD,270597,0
+Kmart,Kmart Deal Center,Points,424990,0
+Kmart,Kmart Deal Center,PMD,970544,0
+Sears,Shopping Recap,PMD,4010,0
+Sears,Sears Website,Points,184887,0
+Sears,Sears Website,PMD,174972,0
+Sears,Sears Shopin,Points,40051,0
+Sears,Sears Shopin,PMD,26402,0
+Sears,Sears Order Confirmation,Points,140068,0
+Sears,Sears Order Confirmation,PMD,585394,0
+Sears,Sears Order Confirmation,Liquidity,21358,0
+Sears,Sears Mobile,Points,208807,0
+Sears,Sears Mobile,PMD,247421,0
+Sears,Sears Mobile,Liquidity,8,0
+Sears,Sears Deal Center,Points,987897,0
+Sears,Sears Deal Center,PMD,1032128,0
+Sears,NPOS,Points,2172774,0
+Sears,NPOS,PMD,8087087,0
+Sears,NPOS,Liquidity,1109687,0
+Kmart,KPOS,Points,5998601,0
+Kmart,KPOS,PMD,11974377,0
+Kmart,KPOS,Liquidity,722640,0
+Kmart,Kmart Shopin,Points,8175,0
+Kmart,Kmart Shopin,PMD,16523,0
+Kmart,Kmart Order Confirmation,Points,74558,0
+Kmart,Kmart Order Confirmation,PMD,349862,0
+Kmart,Kmart Order Confirmation,Liquidity,21721,0
+Kmart,Kmart Mobile,Points,146647,0
+Kmart,Kmart Mobile,PMD,244593,0
+Kmart,Kmart Deal Center,Points,577736,0
+Kmart,Kmart Deal Center,PMD,1138103,0
+Sears,Shopping Recap,PMD,3979,0
+Sears,Sears Website,Points,153771,0
+Sears,Sears Website,PMD,136937,0
+Sears,Sears Shopin,Points,37091,0
+Sears,Sears Shopin,PMD,27485,0
+Sears,Sears Order Confirmation,Points,200298,0
+Sears,Sears Order Confirmation,PMD,632135,0
+Sears,Sears Order Confirmation,Liquidity,47299,0
+Sears,Sears Mobile,Points,247964,0
+Sears,Sears Mobile,PMD,252756,0
+Sears,Sears Deal Center,Points,1014012,0
+Sears,Sears Deal Center,PMD,1076709,0
+Sears,NPOS,Points,3402464,0
+Sears,NPOS,PMD,12432669,0
+Sears,NPOS,Liquidity,2808912,0
+Kmart,KPOS,Points,5863093,0
+Kmart,KPOS,PMD,18552170,0
+Kmart,KPOS,Liquidity,1519952,0
+Kmart,Kmart Shopin,Points,9426,0
+Kmart,Kmart Shopin,PMD,22642,0
+Kmart,Kmart Order Confirmation,Points,71187,0
+Kmart,Kmart Order Confirmation,PMD,414973,0
+Kmart,Kmart Order Confirmation,Liquidity,54226,0
+Kmart,Kmart Mobile,Points,162439,0
+Kmart,Kmart Mobile,PMD,257295,0
+Kmart,Kmart Deal Center,Points,584389,0
+Kmart,Kmart Deal Center,PMD,1107116,0
+Sears,Shopping Recap,Points,11283,0
+Sears,Shopping Recap,PMD,15181,0
+Sears,Sears Website,Points,148969,0
+Sears,Sears Website,PMD,167540,0
+Sears,Sears Shopin,Points,31382,0
+Sears,Sears Shopin,PMD,33741,0
+Sears,Sears Order Confirmation,Points,179800,0
+Sears,Sears Order Confirmation,PMD,610304,0
+Sears,Sears Order Confirmation,Liquidity,53924,0
+Sears,Sears Mobile,Points,280036,0
+Sears,Sears Mobile,PMD,320914,0
+Sears,Sears Mobile,Liquidity,88,0
+Sears,Sears Deal Center,Points,1264015,0
+Sears,Sears Deal Center,PMD,1464994,0
+Sears,NPOS,Points,2543346,0
+Sears,NPOS,PMD,10189341,0
+Sears,NPOS,Liquidity,1799359,0
+Kmart,KPOS,Points,6433190,0
+Kmart,KPOS,PMD,17140022,0
+Kmart,KPOS,Liquidity,1043984,0
+Kmart,Kmart Shopin,Points,10199,0
+Kmart,Kmart Shopin,PMD,24385,0
+Kmart,Kmart Order Confirmation,Points,84875,0
+Kmart,Kmart Order Confirmation,PMD,383645,0
+Kmart,Kmart Order Confirmation,Liquidity,31421,0
+Kmart,Kmart Mobile,Points,182031,0
+Kmart,Kmart Mobile,PMD,286834,0
+Kmart,Kmart Deal Center,Points,775795,0
+Kmart,Kmart Deal Center,PMD,1412319,0
+Sears,Shopping Recap,Points,19129,0
+Sears,Shopping Recap,PMD,24552,0
+Sears,Sears Website,Points,94698,0
+Sears,Sears Website,PMD,113127,0
+Sears,Sears Shopin,Points,28648,0
+Sears,Sears Shopin,PMD,39942,0
+Sears,Sears Order Confirmation,Points,149529,0
+Sears,Sears Order Confirmation,PMD,583748,0
+Sears,Sears Order Confirmation,Liquidity,38147,0
+Sears,Sears Mobile,Points,223540,0
+Sears,Sears Mobile,PMD,282723,0
+Sears,Sears Deal Center,Points,1001819,0
+Sears,Sears Deal Center,PMD,1190723,0
+Sears,NPOS,Points,3433516,0
+Sears,NPOS,PMD,12032717,0
+Sears,NPOS,Liquidity,1779403,0
+Kmart,KPOS,Points,7810838,0
+Kmart,KPOS,PMD,17406823,0
+Kmart,KPOS,Liquidity,983004,0
+Kmart,Kmart Shopin,Points,8966,0
+Kmart,Kmart Shopin,PMD,25753,0
+Kmart,Kmart Order Confirmation,Points,100212,0
+Kmart,Kmart Order Confirmation,PMD,376504,0
+Kmart,Kmart Order Confirmation,Liquidity,22992,0
+Kmart,Kmart Mobile,Points,141042,0
+Kmart,Kmart Mobile,PMD,235832,0
+Kmart,Kmart Deal Center,Points,609775,0
+Kmart,Kmart Deal Center,PMD,1148818,0
+Sears,Shopping Recap,Points,15306,0
+Sears,Shopping Recap,PMD,18433,0
+Sears,Shopping Recap,Liquidity,6,0
+Sears,Sears Website,Points,102794,0
+Sears,Sears Website,PMD,120022,0
+Sears,Sears Shopin,Points,39082,0
+Sears,Sears Shopin,PMD,30474,0
+Sears,Sears Order Confirmation,Points,163202,0
+Sears,Sears Order Confirmation,PMD,647560,0
+Sears,Sears Order Confirmation,Liquidity,41229,0
+Sears,Sears Mobile,Points,241825,0
+Sears,Sears Mobile,PMD,324894,0
+Sears,Sears Mobile,Liquidity,3311,0
+Sears,Sears Deal Center,Points,972445,0
+Sears,Sears Deal Center,PMD,1268294,0
+Sears,NPOS,Points,4737827,0
+Sears,NPOS,PMD,16075581,0
+Sears,NPOS,Liquidity,2349759,0
+Kmart,KPOS,Points,9252974,0
+Kmart,KPOS,PMD,21427549,0
+Kmart,KPOS,Liquidity,1165288,0
+Kmart,Kmart Shopin,Points,12732,0
+Kmart,Kmart Shopin,PMD,22735,0
+Kmart,Kmart Order Confirmation,Points,84048,0
+Kmart,Kmart Order Confirmation,PMD,344451,0
+Kmart,Kmart Order Confirmation,Liquidity,18737,0
+Kmart,Kmart Mobile,Points,146016,0
+Kmart,Kmart Mobile,PMD,232512,0
+Kmart,Kmart Deal Center,Points,559324,0
+Kmart,Kmart Deal Center,PMD,967812,0
+Sears,Shopping Recap,Points,5047,0
+Sears,Shopping Recap,PMD,8044,0
+Sears,Shopping Recap,Liquidity,3,0
+Sears,Sears Website,Points,72677,0
+Sears,Sears Website,PMD,91620,0
+Sears,Sears Shopin,Points,28785,0
+Sears,Sears Shopin,PMD,31766,0
+Sears,Sears Order Confirmation,Points,81305,0
+Sears,Sears Order Confirmation,PMD,430351,0
+Sears,Sears Order Confirmation,Liquidity,27083,0
+Sears,Sears Mobile,Points,194998,0
+Sears,Sears Mobile,PMD,267612,0
+Sears,Sears Mobile,Liquidity,17918,0
+Sears,Sears Deal Center,Points,661647,0
+Sears,Sears Deal Center,PMD,855363,0
+Sears,NPOS,Points,3722434,0
+Sears,NPOS,PMD,15777017,0
+Sears,NPOS,Liquidity,2012164,0
+Kmart,KPOS,Points,8471810,0
+Kmart,KPOS,PMD,20777805,0
+Kmart,KPOS,Liquidity,835311,0
+Kmart,Kmart Shopin,Points,12851,0
+Kmart,Kmart Shopin,PMD,21198,0
+Kmart,Kmart Order Confirmation,Points,42826,0
+Kmart,Kmart Order Confirmation,PMD,183779,0
+Kmart,Kmart Order Confirmation,Liquidity,6235,0
+Kmart,Kmart Mobile,Points,123757,0
+Kmart,Kmart Mobile,PMD,201029,0
+Kmart,Kmart Deal Center,Points,387131,0
+Kmart,Kmart Deal Center,PMD,639709,0
+Sears,Shopping Recap,Points,0,0
+Sears,Shopping Recap,PMD,3678,0
+Sears,Sears Website,Points,73690,0
+Sears,Sears Website,PMD,83538,0
+Sears,Sears Shopin,Points,31055,0
+Sears,Sears Shopin,PMD,20812,0
+Sears,Sears Order Confirmation,Points,61660,0
+Sears,Sears Order Confirmation,PMD,373757,0
+Sears,Sears Order Confirmation,Liquidity,26859,0
+Sears,Sears Mobile,Points,170470,0
+Sears,Sears Mobile,PMD,218792,0
+Sears,Sears Mobile,Liquidity,7474,0
+Sears,Sears Deal Center,Points,702152,0
+Sears,Sears Deal Center,PMD,839945,0
+Sears,NPOS,Points,2188117,0
+Sears,NPOS,PMD,9907895,0
+Sears,NPOS,Liquidity,1308686,0
+Kmart,KPOS,Points,5502725,0
+Kmart,KPOS,PMD,12985278,0
+Kmart,KPOS,Liquidity,197566,0
+Kmart,Kmart Shopin,Points,12078,0
+Kmart,Kmart Shopin,PMD,17063,0
+Kmart,Kmart Order Confirmation,Points,39989,0
+Kmart,Kmart Order Confirmation,PMD,154991,0
+Kmart,Kmart Order Confirmation,Liquidity,2752,0
+Kmart,Kmart Mobile,Points,116624,0
+Kmart,Kmart Mobile,PMD,187664,0
+Kmart,Kmart Deal Center,Points,419624,0
+Kmart,Kmart Deal Center,PMD,738320,0
